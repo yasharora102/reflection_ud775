@@ -1,0 +1,11 @@
+(1)
+Q. What happens when you initialize a repository? Why do you need to do it?
+A. The command "git init" turns a folder into a git repository. By this we can start tracking the changes of the files.
+
+(2)
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+A. Staging area is a temporary location that holds the the files to be committed. It allows you to group files from the working directory according to yourself which you want to be committed.
+ 
+ (3)
+Q. 
+A.
